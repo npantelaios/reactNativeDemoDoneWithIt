@@ -1,0 +1,4 @@
+Alt + arrows -> move selected text
+Ctr+D -> get all references of highlghted text and change them all together
+styles.create -> catches typos + optimizations(future to come)
+Ctr + Space -> see accepted properties
